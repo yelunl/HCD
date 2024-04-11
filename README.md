@@ -21,4 +21,18 @@ A few ideas i can come up with are an easier way to select and copy text. Using 
 ## Week 2
 I made my first prototype where you can select text with max 2 clicks. Then you get a popup where you can copy the text. After copying you can go to a textarea when clicking on it you get another popup that says paste. Then you have successfully selected, copy and pasted text. This will be tested with Nicolette. 
 
+### The test
+The test went well. There are many insight about this test. 
+- Copying was really hard. Mostly because the copying start from each character. Sometimes when she used the tablet she would click twise on the same character which would be registered and cause the select to happen on that area. When clicking a different section with a 3rd click it won't work. It caused a bit of confusion.
+- There was no feedback given when she selected text. So she clicked the copy button a few times.
+- There was a bit of scrolling needed. She couldn't do that with the pen.
+
+Things to do next:
+- add more feedback when clicked on a button
+- make selections based on words instead of characters
+- no scrolling
+
+Extra things
+- Make scrolling possible with a click
+
 
