@@ -17,3 +17,8 @@ The interview happend and it went well. We had a better picture on what her prob
 - She should be able to find her content as fast and easy as possible. 
 
 A few ideas i can come up with are an easier way to select and copy text. Using max of 1 click. I can make a website about nature and make it as easy as possible to navigate through. using big buttons. focussing on content.
+
+## Week 2
+I made my first prototype where you can select text with max 2 clicks. Then you get a popup where you can copy the text. After copying you can go to a textarea when clicking on it you get another popup that says paste. Then you have successfully selected, copy and pasted text. This will be tested with Nicolette. 
+
+
