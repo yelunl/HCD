@@ -35,4 +35,12 @@ Things to do next:
 Extra things
 - Make scrolling possible with a click
 
+## Week 3
+I made new adjustments to the prototype based on the feedback of last week. 
+1. Selections only happens on whole words instead of characters.
+2. When the user clicks 2 times on the same word, nothing happens to the selection. You can still copy.
+3. I added a hover effect for each word. And when clcked it highlights that specific word.
+
+### The test
+The selecting text still didn't work. I couldn't tell why it didn't work, testing it with the trackpad it would work perfectly. But during the test it didn't work with the tablet. Mostly selecting the second word, the entire selection would stop. I should thoroughly test my protype with a tablet myself. The problem might just be the tablet settings. Or it might be dragging accidentely on a word that might cause it.
 
