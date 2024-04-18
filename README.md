@@ -42,5 +42,8 @@ I made new adjustments to the prototype based on the feedback of last week.
 3. I added a hover effect for each word. And when clcked it highlights that specific word.
 
 ### The test
-The selecting text still didn't work. I couldn't tell why it didn't work, testing it with the trackpad it would work perfectly. But during the test it didn't work with the tablet. Mostly selecting the second word, the entire selection would stop. I should thoroughly test my protype with a tablet myself. The problem might just be the tablet settings. Or it might be dragging accidentely on a word that might cause it.
+The selecting text still didn't work. I couldn't tell why it didn't work, testing it with the trackpad it would work perfectly. But during the test it didn't work with the tablet. Mostly selecting the second word, the entire selection would stop. I plan to thoroughly test my protype with a tablet this week. The problem might just be the tablet settings. Or it might be dragging accidentely on a word that might cause it. Also i want to add a scroll option.
+
+## Week 4
+To my new prototype i added a button to scroll up and down the page. And I tested it with a tablet. It worked fine with the tablet as well. I have deleted and reinstalled the wacom driver and set everything back to it's default. My suspisioun might be the buttons on the pen. I had added my own configurations on the pen a long time ago. And one of them is undo(ctr-z). Maybe this could have been the problem. 
 
