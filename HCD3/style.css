@@ -2,6 +2,10 @@
   scroll-behavior: smooth;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 h1,
 p,
 label,

@@ -87,6 +87,10 @@ buttonCopy.addEventListener("click", async () => {
   try {
     await navigator.clipboard.writeText(selectedString);
     console.log("Content copied to clipboard");
+    buttonCopy.textContent = 'gekopieerd';
+    setTimeout(() => {
+    buttonCopy.textContent = 'kopieer';
+    }, 2000)
     audio2.play();
   } catch (err) {
     console.log(err);
@@ -98,6 +102,10 @@ buttonPaste.addEventListener("click", async () => {
     let text = await navigator.clipboard.readText();
     text = text.replace(/\s+/g, " ");
     textarea.value = text;
+    buttonPaste.textContent = 'geplakt';
+    setTimeout(() => {
+    buttonPaste.textContent = 'plakken';
+    }, 2000)
     audio2.play();
   } catch (err) {}
 });

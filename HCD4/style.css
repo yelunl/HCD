@@ -2,6 +2,10 @@
   scroll-behavior: smooth;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 h1,
 p,
 label,
@@ -41,7 +45,7 @@ body {
 
 #copy,
 #paste {
-  width: 8rem;
+  width: 11rem;
   height: 5rem;
   background: #d4fdde;
   border: #218838 solid 3px;
