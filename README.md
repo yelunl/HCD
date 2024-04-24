@@ -53,7 +53,9 @@ The selecting text still didn't work. I couldn't tell why it didn't work, testin
 So i have added an option to scroll and deleted and reinstalled the driver in hopes this might solve the problem with selecting. On top of it, after the feedback session i also added sound as additional feedback after each click. Also added buttons to make text on the screen bigger and smaller, i already made the overall font-size bigger before but maybe she would like a way to customize it herself. The feedback when someone hovers over the text i changed it a bit. When you hover over the text it gives a border, when clicking on a word it fills the background of that word. This might give a better indication if a word has been selected or not. This will be tested.
 
 ### The test
-The test went very well. Selecting text went very smooth. She was happy with the way it worked. She was only a bit confused when asked to find the copy button. She couldn't find it. She prefers it if the buttons stay at one place so she can find it better. The sound as feedback sher liked.
+The test went very well. Selecting text went very smooth. She was happy with the way it worked. She was only a bit confused when asked to find the copy button. She couldn't find it. She prefers it if the buttons stay at one place so she can find it better. The sound as feedback she liked.
+
+To make this prototype even better after the last test i put the copy and paste button underneath the input element without making it disappear or popup at different places. When one clicks on the buttons i also gave it a little feedback by changing the text within from 'kopieer' to 'gekopieerd' and 'plakken' and 'geplakt'. If there was another test, i would have tried to find out if this feedback would be clear for her or if she needs overall more things from this prototype.
 
 ## Exclusive design principles
 ### study situation
