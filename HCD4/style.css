@@ -1,0 +1,104 @@
+* {
+  scroll-behavior: smooth;
+}
+
+h1,
+p,
+label,
+h2,
+button,
+textarea {
+  font-size: 1.725rem;
+  line-height: 2.5rem;
+  letter-spacing: 0.08rem;
+  font-family: sans-serif;
+}
+
+p {
+  margin-bottom: 5rem;
+}
+
+span {
+  display: inline-block;
+  width: max-content;
+}
+
+span:hover {
+  border: 0.2rem solid rgb(246, 187, 114);
+}
+
+::selection {
+  background-color: bisque;
+}
+
+body {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+#copy,
+#paste {
+  width: 8rem;
+  height: 5rem;
+  background: #d4fdde;
+  border: #218838 solid 3px;
+  color: #218838;
+}
+
+body > div:last-of-type {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+body > div:last-of-type button {
+  border-radius: 5rem;
+  width: 4rem;
+  height: 4rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+article {
+  width: 40rem;
+}
+
+#up,
+#down {
+  font-size: 1rem;
+  background-color: #28a745;
+  border: none;
+  box-shadow: 0.1rem 0.1rem 0.2rem #218838;
+  width: 5rem;
+  height: 5rem;
+}
+
+#up:hover,
+#down:hover {
+  background-color: #218838;
+}
+
+#up:active,
+#down:active {
+  box-shadow: none;
+}
+
+#changeFontSize {
+  display: flex;
+  gap: 0.5rem;
+}
+
+#littleFont,
+#bigFont {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 1rem;
+  border: none;
+  background: #82d997;
+}

@@ -1,0 +1,37 @@
+* {
+  font-size: 26px;
+}
+
+h1,
+p {
+  line-height: 1.9rem;
+  letter-spacing: 0.05rem;
+}
+
+p {
+  margin-bottom: 5rem;
+}
+
+span:hover {
+  background-color: bisque;
+  padding: 0.2rem;
+}
+
+::selection {
+  background-color: bisque;
+}
+
+body {
+  position: relative;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+button {
+  position: absolute;
+  width: 8rem;
+  height: 5rem;
+  top: -200rem;
+  left: -200rem;
+}
