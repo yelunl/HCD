@@ -62,8 +62,8 @@ In week one we had done our interview to get a better understanding of Nicolette
 ### Ignore conventions
 The conventional way selecting (dragging) doesn't work for Nicolette with a tablet. Neither does copy paste with keyboard. So these are things that have to be ignored and have to think of other unique ways of still doing these things using a tablet.
 
-## Prioritize identity
+### Prioritize identity
 Nicolette uses a tablet to navigate the web and also uses a speech software installed on her laptop. Since this is her way of using the web, i want to prioritize using these tools that she is familiar with.
 
-## Add nonsense
+### Add nonsense
 This was the hardest thing to come up with. I haven't add a lot of nonsense mostly because it's very hard to think of something when it comes to selecting text. Don't want to make it too confusing either by adding too many things especially not on text since clicking and aiming for a word that she wants can be a little troubling. But i did add sound as feedback whenever she clicked on a word or a button. This way it would be a little in the background and not be distracting while selecting text.
